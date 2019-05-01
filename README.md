@@ -1,5 +1,6 @@
 # Exploring-NYC-Schools-Survey-Data
 Dataquest "Data Cleaning with R - Exploring-NYC-Schools-Survey-Data" solutions.
+My sample solution is in R Markdown file
 
 This data is a part of the Dataquest "Data Cleaning with R" project. You can find the data description and given 2 data frames - "Masterfile11_d75_final.txt and Masterfile11_gened_final" in 2 formats, excel and txt formats. We are extracting the data from these 2 files that is necessary for us and then combining these 2 data frames. 
 
